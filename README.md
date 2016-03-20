@@ -1,2 +1,3 @@
 # hello-world
-The customary hello world project for me.. am moving from CVS, TFS to git
+Hi,
+The customary hello world project.. am moving from CVS, TFS to git
